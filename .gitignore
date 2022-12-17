@@ -3,3 +3,5 @@ __pycache__/
 .vscode/
 env/
 python.org.html
+*.db
+.DS_Store
