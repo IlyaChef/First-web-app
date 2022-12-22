@@ -5,3 +5,4 @@ env/
 python.org.html
 *.db
 .DS_Store
+.gitignore
